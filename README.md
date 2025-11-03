@@ -19,5 +19,5 @@ Last failed login attempts (if permitted)
 
 
 
-this idea for this project is given from this site :
+idea for this project is given from this site :
 https://roadmap.sh/projects/server-stats
