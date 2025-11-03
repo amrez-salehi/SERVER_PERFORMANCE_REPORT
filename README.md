@@ -16,3 +16,8 @@ Top 5 memory-heavy processes
 OS info, uptime, load average, logged-in users
 
 Last failed login attempts (if permitted)
+
+
+
+this idea for this project is given from this site :
+https://roadmap.sh/projects/server-stats
